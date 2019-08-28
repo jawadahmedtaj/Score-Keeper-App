@@ -1,0 +1,13 @@
+.winner {
+    color: red;
+}
+
+html,
+body {
+    height: 100%;
+    background-color: #3c3c3c;
+}
+
+.scoreboard {
+    background-color: #007bff;
+}

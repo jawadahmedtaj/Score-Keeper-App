@@ -16,7 +16,7 @@
   "bugs": {
     "url": "https://github.com/jawadahmedtaj/Score-Keeper-App/issues"
   },
-  "homepage": "ps://jawadahmedtaj.github.io/Score-Keeper-App",
+  "homepage": "https://jawadahmedtaj.github.io/Score-Keeper-App",
   "dependencies": {
     "gh-pages": "^2.1.1"
   }
